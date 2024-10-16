@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  padding: 0 20px;
+}
+
+main {
+max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  padding: 0 20px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  max-width: 400px;
+}
+
+button {
+  margin-top: 20px;
+}
